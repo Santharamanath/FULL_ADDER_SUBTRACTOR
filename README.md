@@ -38,11 +38,11 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**FULL ADDER
+**Truthtable For FULL ADDER**
 
 ![318287418-d2ff3833-f609-4054-af8b-d834a088a135](https://github.com/Santharamanath/FULL_ADDER_SUBTRACTOR/assets/149035289/7189773a-4572-4538-9852-83dc480d4ef6)
 
-FULL SUBRACTOR
+**Truth table For FULL SUBRACTOR**
 
 ![318287474-70d90a4d-3b7e-4fd9-9830-4d6cf3fb29c2](https://github.com/Santharamanath/FULL_ADDER_SUBTRACTOR/assets/149035289/1d95b990-e829-44c1-a691-fb6b31e00060)
 
