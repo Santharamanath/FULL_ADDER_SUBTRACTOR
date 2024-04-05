@@ -1,4 +1,6 @@
 # FULL_ADDER_SUBTRACTOR
+# DEVELOPED BY : SANTHA RAMANATH M
+# REGISTER NUMBER : 212223220097
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
